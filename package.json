@@ -1,0 +1,25 @@
+{
+  "name": "js-forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuliagabriela/js-forkify.git"
+  },
+  "author": "Iulia Mocanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuliagabriela/js-forkify/issues"
+  },
+  "homepage": "https://github.com/iuliagabriela/js-forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.41.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
